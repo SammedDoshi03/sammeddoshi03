@@ -1,7 +1,7 @@
 # Sammed Doshi | React Native Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/SammedDoshi03/sammeddoshi03/refs/heads/main/assets/1.gif"  alt="Intro image"/>
   <h1>
     <a href="https://github.com/SammedDoshi03">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Sammed+Doshi;React+Native+Developer;AI+%26+Mobile+Innovator" alt="Typing SVG" />

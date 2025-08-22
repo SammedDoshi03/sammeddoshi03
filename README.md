@@ -45,13 +45,13 @@ I'm a software engineer who transforms ideas into high-performance mobile applic
 ---
 
 ### 🛠️ My Tech Arsenal
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,redux,nextjs,express,py,java&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,aws,docker&perline=6" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,figma,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,jest,figma" />
   </a>
 </p>
 

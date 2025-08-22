@@ -25,7 +25,7 @@ I'm a software engineer who transforms ideas into high-performance mobile applic
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Devices/Mobile%20Phone.png" alt="Mobile Phone" width="60" height="60" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="60" height="60" />
       <br><strong>Mobile Innovation</strong>
       <p>Building beautiful, performant apps for iOS & Android.</p>
     </td>
@@ -35,7 +35,7 @@ I'm a software engineer who transforms ideas into high-performance mobile applic
       <p>Leveraging GenAI and ML to build intelligent features.</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High-Speed%20Train.png" alt="High-Speed Train" width="60" height="60" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="60" height="60" />
       <br><strong>Full-Stack Architecture</strong>
       <p>Architecting scalable solutions with the MERN stack & Firebase.</p>
     </td>

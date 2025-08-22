@@ -80,12 +80,5 @@ I'm a software engineer who transforms ideas into high-performance mobile applic
 </table>
 
 <div align="center">
-  <h3>🎵 Now Listening On Spotify</h3>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" alt="Spotify Now Playing" width="400">
-  </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SammedDoshi03&label=PROFILE%20VISITORS&color=blueviolet&style=for-the-badge" alt="Profile Visitors">
 </div>

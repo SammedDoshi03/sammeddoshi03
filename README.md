@@ -12,8 +12,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sammeddoshi03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
   &nbsp;
-  </div>
-  <div align="center">
+  <gap>
   <a href="https://sammeddoshi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" height=30></a>
   &nbsp;
   </div>

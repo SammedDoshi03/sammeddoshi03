@@ -16,9 +16,34 @@
 
 ---
 
-### 🚀 About Me
-I'm a software engineer who transforms ideas into high-performance mobile applications. My expertise lies in **React Native** and **TypeScript**, with a deep passion for integrating **Artificial Intelligence** to create smarter, more intuitive user experiences. I thrive on architecting scalable solutions and bringing a product-focused mindset to every project.
+# 🚀 Senior Software Engineer | Mobile Architect | GenAI Specialist
 
+I am a **Senior Software Engineer** with over **3.5 years of experience** building high-performance, enterprise-grade mobile and web applications. I specialize in **React Native and TypeScript**, with a focus on creating scalable architectures that serve millions of users.
+
+---
+
+### 🛠 Technical Expertise
+
+* **Core Stack:** React Native (Expo), TypeScript, React.js, and Redux Toolkit.
+* **Mobile Architecture:** Expertise in Native Module integration (Java/Swift), offline-first design, and performance optimization.
+* **GenAI & Intelligence:** Architecting AI-driven ecosystems using Gemini API and Google Firestore.
+* **Quality & Accessibility:** Champion of inclusive design (a11y) and WCAG compliance.
+
+---
+
+### 📦 Open Source & Featured Projects
+
+* **Universal Adaptive Bars:** Creator and maintainer of a lightweight React Native library for dynamic, edge-to-edge status and navigation bar management.
+* **MindfulBite:** A GenAI-powered nutrition assistant that leverages image analysis for real-time health insights.
+* **Travel Advisory:** An AI-driven travel planner featuring intelligent destination discovery and budget optimization.
+
+---
+
+### 📈 Professional Impact
+
+* **Sector Excellence:** Delivered mission-critical applications for the Energy and Banking sectors.
+* **Efficiency:** Accelerated the development lifecycle by **20%** through AI-assisted workflows.
+* **Scalability:** Engineered component-based systems that reduced code redundancy by **30%** for **1M+ active users**.
 ---
 
 ### 💡 Core Competencies

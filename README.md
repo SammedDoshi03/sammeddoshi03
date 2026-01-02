@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sammeddoshi03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
   &nbsp;
   <gap>
-  <a href="https://sammeddoshi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" height=30></a>
+  <a href="https://sammeddoshi.com" target="_blank"><img src="https://img.shields.io/badge/127.0.0.1-25292e?style=for-the-badge&logo=google-chrome&logoColor=white"  height=30></a>
   &nbsp;
   </div>
 
